@@ -1,9 +1,9 @@
 {
- "versionCode": 17,
- "version": "1.9",
- "novedades": "Menú de 3 puntos en cada app (favorito, compartir, QR, seleccionar y borrar de la tienda en la versión Admin), avisos de actualización y «Actualizar todo», descargas con progreso y aviso, verificación de seguridad de cada archivo, permisos y compatibilidad antes de instalar, favoritos, novedades, ordenar, buscador por voz, color de acento, catálogo sin conexión, historial, widget y auto-actualización de la propia tienda.",
- "bytes": 127620,
- "tamano": "125 KB",
+ "versionCode": 18,
+ "version": "2.0",
+ "novedades": "Descargas en segundo plano y en cola: puedes salir de la tienda y te avisa al terminar cada app, con velocidad y tiempo restante; si una descarga se corta, continúa donde iba. Sección «Para actualizar» y chip de actualizaciones. Foto de perfil de cada app. Comentarios en cada ficha. Tus estrellas, tema claro, vista compacta, acceso directo en el escritorio, favoritos sincronizados entre tus equipos y sugerencia automática cuando la tienda misma tiene versión nueva. La versión Admin suma: editar fichas desde el teléfono.",
+ "bytes": 139908,
+ "tamano": "137 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jstore-admin.apk",
- "sha256": "134a3802589b4f8faabba212392369212beb50900e60ac2ffdddaf419318590f"
+ "sha256": "2b1e0f34269ceff334c9737861b36fdaf3c1083a32c119272f010375fe554290"
 }
