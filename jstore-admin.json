@@ -1,9 +1,9 @@
 {
- "versionCode": 18,
- "version": "2.0",
- "novedades": "Descargas en segundo plano y en cola: puedes salir de la tienda y te avisa al terminar cada app, con velocidad y tiempo restante; si una descarga se corta, continúa donde iba. Sección «Para actualizar» y chip de actualizaciones. Foto de perfil de cada app. Comentarios en cada ficha. Tus estrellas, tema claro, vista compacta, acceso directo en el escritorio, favoritos sincronizados entre tus equipos y sugerencia automática cuando la tienda misma tiene versión nueva. La versión Admin suma: editar fichas desde el teléfono.",
- "bytes": 139908,
- "tamano": "137 KB",
+ "versionCode": 19,
+ "version": "2.0.1",
+ "novedades": "Ahora el catálogo se carga siempre fresco (sin quedarse pegado en la copia guardada) y el catálogo de reserva ya trae la tienda al día, con Izi Tech Adm y J-Share 2.3. Los iconos también se renuevan cuando una app cambia el suyo.",
+ "bytes": 144004,
+ "tamano": "141 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jstore-admin.apk",
- "sha256": "2b1e0f34269ceff334c9737861b36fdaf3c1083a32c119272f010375fe554290"
+ "sha256": "b6ad10f4922c464d6ea5166db7b0687fc63b0ee2a64bbbc7ea95f1e317ed117e"
 }
