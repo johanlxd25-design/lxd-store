@@ -14,7 +14,11 @@
   "bytes": 1287168,
   "tipo": "pc",
   "extraUrl": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/WebView2Loader.dll",
-  "extraNombre": "WebView2Loader.dll (necesario)"
+  "extraNombre": "WebView2Loader.dll (necesario)",
+  "novedades": "Voz encadenada (varias órdenes en una frase), subtítulos traducidos si solo hay en inglés, zoom y repetición instantánea en el video, grabar la TV en vivo, frases de voz propias, ver la PC desde el teléfono, pedidos de canciones por la web y marca de visto.",
+  "sha256": "2d445de59253bf63746eb79f972a6fea776b67e0803669a492ec684a84a90506",
+  "fecha": "2026-11-05",
+  "descargas": 1
  },
  {
   "bytes": 76221,
@@ -28,7 +32,11 @@
   "tamano": "74 KB",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jremote.apk",
   "version": "1.15",
-  "versionCode": 16
+  "versionCode": 16,
+  "novedades": "Ratón aéreo con el sensor del teléfono, dictado para escribir en cualquier programa de la PC, captura de pantalla de la PC y encender la PC con Wake on LAN.",
+  "sha256": "009fb55299df82f2fb043c8dccd6c2b44aec929102d8e0aa79639c433d7a2578",
+  "fecha": "2026-11-05",
+  "descargas": 1
  },
  {
   "bytes": 165106,
@@ -42,6 +50,10 @@
   "tamano": "161 KB",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/dolarbcv.apk",
   "version": "1.4",
-  "versionCode": 5
+  "versionCode": 5,
+  "novedades": "Niveles de cobro del 1 (60%) al 5 (20%), botón para copiar el resultado listo para WhatsApp e historial de tus últimas 20 cuentas.",
+  "sha256": "bdeb059b3a82a30b3adda0e66d7169d008d9800ec435e19cb4f3cbbd7c81f541",
+  "fecha": "2026-11-03",
+  "descargas": 3
  }
 ]
