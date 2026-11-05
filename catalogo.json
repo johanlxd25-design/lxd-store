@@ -18,7 +18,8 @@
   "novedades": "Bloqueador de anuncios en el navegador interno, fotogramas como carátula con el foco teñido de su color, capítulo por voz, panel rápido, QR para invitar otro control y QR de pedidos en J-Music.",
   "sha256": "2a3b545e557704f73aaaa23c85360cc730119b52df94559a61f7f3703b757004",
   "fecha": "2026-11-05",
-  "descargas": 1
+  "descargas": 1,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jtv.png"
  },
  {
   "bytes": 395709,
@@ -36,7 +37,9 @@
   "novedades": "La voz ahora también funciona en teléfonos antiguos como el J2 Prime: si no hay servicio de voz, usa la pantalla de dictado del sistema. Incluye los gestos con letras, la escucha «Hey», el panel rápido y escanear el QR de la TV.",
   "sha256": "895897572124f611983fe27decf31896961f9dcefe051a2e4e6fcadd86468e4d",
   "fecha": "2026-11-05",
-  "descargas": 1
+  "descargas": 1,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jremote.png",
+  "minSdk": 24
  },
  {
   "bytes": 165106,
@@ -54,24 +57,28 @@
   "novedades": "Niveles de cobro del 1 (60%) al 5 (20%), botón para copiar el resultado listo para WhatsApp e historial de tus últimas 20 cuentas.",
   "sha256": "bdeb059b3a82a30b3adda0e66d7169d008d9800ec435e19cb4f3cbbd7c81f541",
   "fecha": "2026-11-03",
-  "descargas": 3
+  "descargas": 3,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-dolarbcv.png",
+  "minSdk": 24
  },
  {
   "nombre": "J-Share",
   "paquete": "com.johanlxd.jshare",
-  "version": "2.1",
-  "versionCode": 8,
+  "version": "2.3",
+  "versionCode": 10,
   "categoria": "Utilidades",
   "descCorta": "Comparte archivos tocando otro teléfono: el toque NFC avisa y el archivo viaja por tu Wi-Fi",
   "descLarga": "Comparte archivos entre dos teléfonos con un toque: en cualquier app toca «Compartir» y elige J-Share, deja la ventanita abierta, y el otro teléfono —con la pantalla «Recibir» abierta— detecta el toque NFC y descarga solo por el Wi-Fi de la casa, sin internet y sin cables.\n\nLo recibido queda en Descargas → J-Share. Ambos teléfonos necesitan J-Share instalado y estar conectados al mismo Wi-Fi.",
-  "tamano": "41 KB",
+  "tamano": "49 KB",
   "monograma": "JS",
   "color": "#EC4899",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
-  "bytes": 41793,
-  "novedades": "Estreno en la tienda: el toque lo detecta el teléfono que recibe y la descarga arranca sola, sin tocar botones.",
-  "sha256": "24d218c0f7d456599e8f29389374f29352c669ceba64b30534a7d62dea9a17bf",
+  "bytes": 49985,
+  "novedades": "El aviso del toque ahora viaja por Bluetooth: al compartir, tu teléfono emite una señal y el otro la oye y descarga solo (el archivo sigue yendo por Wi-Fi). Botón en accesos rápidos con «Esperando emisor».",
+  "sha256": "dd5662094ae42a10f288f4bd10836038bc90a2ac6b5666dfda229497d28cab4d",
   "fecha": "2026-11-05",
-  "descargas": 0
+  "descargas": 0,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jshare.png",
+  "minSdk": 23
  }
 ]
