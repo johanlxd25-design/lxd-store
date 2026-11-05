@@ -1,0 +1,9 @@
+{
+ "versionCode": 17,
+ "version": "1.9",
+ "novedades": "Menú de 3 puntos en cada app (favorito, compartir, QR, seleccionar y borrar de la tienda en la versión Admin), avisos de actualización y «Actualizar todo», descargas con progreso y aviso, verificación de seguridad de cada archivo, permisos y compatibilidad antes de instalar, favoritos, novedades, ordenar, buscador por voz, color de acento, catálogo sin conexión, historial, widget y auto-actualización de la propia tienda.",
+ "bytes": 127620,
+ "tamano": "125 KB",
+ "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jstore.apk",
+ "sha256": "1e39f883704afec92f017df9949b967d8be7e29c0f99445c96cc3a18274ca479"
+}
