@@ -1,9 +1,9 @@
 {
- "versionCode": 15,
- "version": "2.8",
- "novedades": "Nuevo «Siempre listo»: J-Share puede quedar escuchando en segundo plano con muy poca batería y te avisa cuando alguien te comparte algo; un toque y lo recibes. También vuelve solo al encender el teléfono. Más interfaz: entrada en cascada del inicio, botón Cancelar al buscar y descargar, deslizar en la ventanita para pasar de archivo, interruptor de sonidos y el arranque se salta al tocar. El envío sigue siendo el de siempre.",
- "bytes": 82886,
- "tamano": "81 KB",
+ "versionCode": 16,
+ "version": "2.9",
+ "novedades": "¡Ahora se llama J-Drop! Nombre nuevo, icono nuevo minimalista (una gota) y el botón de accesos rápidos con su propia silueta. Por dentro es la misma app: «Siempre listo» en segundo plano y el envío de siempre.",
+ "bytes": 95249,
+ "tamano": "93 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "b41d1c3afe2fc13e3cb7486f0e7d78960c7b1011960e23b7d6ec2db788822b95"
+ "sha256": "bfd8a769018f3c13186235a7cd95b2e550c01e62a1ae2c4325a492810e2524bc"
 }
