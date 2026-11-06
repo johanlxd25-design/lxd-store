@@ -1,9 +1,9 @@
 {
- "versionCode": 18,
- "version": "3.1",
- "novedades": "Seis ideas nuevas: «Tu semana de gotas» en el inicio con lo enviado y recibido; tu foto dentro de la tarjeta de contacto (y tu enlace de WhatsApp); botón «Guardar contacto» al recibir una tarjeta, sin salir de J-Drop; ahora ves quién te envía —su nombre y su foto— en la notificación y al recibir; celebración a tu gusto (la gota, confeti o anillos; campana, pop o silencio); y «Nota rápida» para enviar un texto o un enlace con el toque.",
- "bytes": 107537,
- "tamano": "105 KB",
+ "versionCode": 19,
+ "version": "3.2",
+ "novedades": "Las ventanitas ahora son de cristal líquido (Liquid Glass): la de compartir, la de «Esperando emisor» y la ventanita de lo recibido se ven translúcidas, con el borde luminoso y el brillo de cristal — y en Android 12+ desenfocan de verdad lo que hay detrás. Se apaga cuando quieras con el interruptor «Cristal líquido en las ventanitas» del inicio. El envío sigue siendo el de siempre.",
+ "bytes": 111633,
+ "tamano": "109 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "f5ecc83279edb24aa8a4aab27afd51364fe33075fe10d0b8ada56410365e92e7"
+ "sha256": "f1b920ce7d30090e455dcce5a0b99ef131fb590ead29188a71a5089abcb3ac10"
 }
