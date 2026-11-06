@@ -1,9 +1,9 @@
 {
- "versionCode": 26,
- "version": "1.25",
- "novedades": "El botón 🎤 ahora tiene dos modos: tocarlo da la orden por voz de siempre, y mantenerlo presionado es el botón de IA aparte: pregúntale a Gemini lo que sea.",
- "bytes": 407997,
- "tamano": "398 KB",
+ "versionCode": 27,
+ "version": "1.26",
+ "novedades": "Nuevo «Modo Negro AMOLED» en el menú ⋯: toda la app en negro puro (#000000); en pantallas AMOLED los píxeles negros se apagan y gasta menos batería. Se queda guardado.",
+ "bytes": 412641,
+ "tamano": "403 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jremote.apk",
- "sha256": "a2a7de189022c5c941e00f4708ec35979764dcdd7f4a3933b3af4ed2b2eadfae"
+ "sha256": "4d12c1a23385994c838d6563b06f8d180904bfd6be909fb59d6cbb9b8984e2c4"
 }
