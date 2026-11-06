@@ -1,9 +1,9 @@
 {
- "versionCode": 17,
- "version": "3.0",
- "novedades": "«Mi contacto, siempre»: tu teléfono ofrece tu tarjeta de contacto en segundo plano, con la animación de la gota al compartirse.",
- "bytes": 103441,
- "tamano": "101 KB",
+ "versionCode": 18,
+ "version": "3.1",
+ "novedades": "Seis ideas nuevas: «Tu semana de gotas» en el inicio con lo enviado y recibido; tu foto dentro de la tarjeta de contacto (y tu enlace de WhatsApp); botón «Guardar contacto» al recibir una tarjeta, sin salir de J-Drop; ahora ves quién te envía —su nombre y su foto— en la notificación y al recibir; celebración a tu gusto (la gota, confeti o anillos; campana, pop o silencio); y «Nota rápida» para enviar un texto o un enlace con el toque.",
+ "bytes": 107537,
+ "tamano": "105 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "66792da2bab1d3731b1f867ae0b6dd2994e73dc5c4227805483b1fd0f438f113"
+ "sha256": "f5ecc83279edb24aa8a4aab27afd51364fe33075fe10d0b8ada56410365e92e7"
 }
