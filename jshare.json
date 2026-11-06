@@ -1,9 +1,9 @@
 {
- "versionCode": 17,
- "version": "3.0",
- "novedades": "Nuevo: «Mi contacto, siempre». Actívalo y tu teléfono ofrece tu tarjeta de contacto aunque no toques Compartir: quien te busque con J-Drop la guarda en segundos, con una animación de celebración cuando se comparte. Tus datos se editan en la misma tarjeta.",
- "bytes": 103441,
- "tamano": "101 KB",
+ "versionCode": 18,
+ "version": "3.1",
+ "novedades": "El toque ahora es por Bluetooth: pega los dos teléfonos y la intensidad de la señal dispara el envío por Wi-Fi (ya no usa NFC, así que también funciona en teléfonos sin NFC, como el J2 Prime). La app vuelve a llamarse J-Share.",
+ "bytes": 107537,
+ "tamano": "105 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "66792da2bab1d3731b1f867ae0b6dd2994e73dc5c4227805483b1fd0f438f113"
+ "sha256": "4e2ad22c55c7af952c9b4326d81bfd65e45a705193c395532bbb7c146fc916f9"
 }
