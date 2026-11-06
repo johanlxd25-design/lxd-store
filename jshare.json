@@ -1,9 +1,9 @@
 {
- "versionCode": 12,
- "version": "2.5",
- "novedades": "Tu v2.2 de siempre (el toque lo detecta el que recibe; sin faro Bluetooth), más la vista previa de lo recibido dentro de J-Share y la actualización automática.",
- "bytes": 58177,
- "tamano": "57 KB",
+ "versionCode": 13,
+ "version": "2.6",
+ "novedades": "La vista previa ahora es una ventanita animada debajo del aviso de recibido, con los botones Eliminar, Copiar y Compartir.",
+ "bytes": 62273,
+ "tamano": "61 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "2f29e7c4edde54b186c04a525e1e311e685c08ec2f520afc30f68f78b6582e6e"
+ "sha256": "0edc4c560858dc440e35916c10bc8ccc38ed90e2ca8623be572be4b6153d4def"
 }
