@@ -1,9 +1,9 @@
 {
- "versionCode": 13,
- "version": "2.6",
- "novedades": "La vista previa ahora es una ventanita animada debajo del aviso de recibido, con los botones Eliminar, Copiar y Compartir.",
- "bytes": 62273,
- "tamano": "61 KB",
+ "versionCode": 14,
+ "version": "2.7",
+ "novedades": "Interfaz nueva: estado con semáforos, «cómo funciona» en 3 tarjetas, miniaturas de lo último recibido en el inicio, botones grandes abajo, iconos propios, avisos de la app, el progreso en un círculo grande, confeti al completar, la ventanita se puede plegar, color de acento a tu gusto, arranque con logo y accesos manteniendo el icono. El envío sigue siendo el de siempre.",
+ "bytes": 74628,
+ "tamano": "73 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "0edc4c560858dc440e35916c10bc8ccc38ed90e2ca8623be572be4b6153d4def"
+ "sha256": "4f3e91a3b90f6483c792dac3502bbdf1668b87ce4b8611f25c125262026eef07"
 }
