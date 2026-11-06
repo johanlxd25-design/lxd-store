@@ -1,0 +1,9 @@
+{
+ "versionCode": 1,
+ "version": "1.0",
+ "novedades": "La nueva app hermana de J-Drop: comparte pegando los teléfonos, pero el toque se detecta por la intensidad del Bluetooth (sin NFC, así que también funciona en el J2 Prime). Es una app aparte: se instala junto a J-Drop, no la reemplaza.",
+ "bytes": 107533,
+ "tamano": "105 KB",
+ "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jsharebt.apk",
+ "sha256": "2286f1c245b6e9875632ac11da12d2d0c12c0c0f2e7035c14c3db6771541df16"
+}
