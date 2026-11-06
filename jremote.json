@@ -1,9 +1,9 @@
 {
- "versionCode": 25,
- "version": "1.24",
- "novedades": "J-Remote ahora se actualiza sola: al abrirla busca versión nueva, la descarga y te la deja lista para instalar con un toque.",
+ "versionCode": 26,
+ "version": "1.25",
+ "novedades": "El botón 🎤 ahora tiene dos modos: tocarlo da la orden por voz de siempre, y mantenerlo presionado es el botón de IA aparte: pregúntale a Gemini lo que sea.",
  "bytes": 407997,
  "tamano": "398 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jremote.apk",
- "sha256": "5f160d794a7ae682c8633073f71f47f8ee139cd56d2b12d2d73ee11ce063d9b5"
+ "sha256": "a2a7de189022c5c941e00f4708ec35979764dcdd7f4a3933b3af4ed2b2eadfae"
 }
