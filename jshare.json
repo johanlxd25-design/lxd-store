@@ -1,9 +1,9 @@
 {
- "versionCode": 16,
- "version": "2.9",
- "novedades": "¡Ahora se llama J-Drop! Nombre nuevo, icono nuevo minimalista (una gota) y el botón de accesos rápidos con su propia silueta. Por dentro es la misma app: «Siempre listo» en segundo plano y el envío de siempre.",
- "bytes": 95249,
- "tamano": "93 KB",
+ "versionCode": 17,
+ "version": "3.0",
+ "novedades": "Nuevo: «Mi contacto, siempre». Actívalo y tu teléfono ofrece tu tarjeta de contacto aunque no toques Compartir: quien te busque con J-Drop la guarda en segundos, con una animación de celebración cuando se comparte. Tus datos se editan en la misma tarjeta.",
+ "bytes": 103441,
+ "tamano": "101 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "bfd8a769018f3c13186235a7cd95b2e550c01e62a1ae2c4325a492810e2524bc"
+ "sha256": "66792da2bab1d3731b1f867ae0b6dd2994e73dc5c4227805483b1fd0f438f113"
 }
