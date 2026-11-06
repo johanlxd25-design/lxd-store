@@ -1,9 +1,9 @@
 {
- "versionCode": 14,
- "version": "2.7",
- "novedades": "Interfaz nueva: estado con semáforos, «cómo funciona» en 3 tarjetas, miniaturas de lo último recibido en el inicio, botones grandes abajo, iconos propios, avisos de la app, el progreso en un círculo grande, confeti al completar, la ventanita se puede plegar, color de acento a tu gusto, arranque con logo y accesos manteniendo el icono. El envío sigue siendo el de siempre.",
- "bytes": 74628,
- "tamano": "73 KB",
+ "versionCode": 15,
+ "version": "2.8",
+ "novedades": "Nuevo «Siempre listo»: J-Share puede quedar escuchando en segundo plano con muy poca batería y te avisa cuando alguien te comparte algo; un toque y lo recibes. También vuelve solo al encender el teléfono. Más interfaz: entrada en cascada del inicio, botón Cancelar al buscar y descargar, deslizar en la ventanita para pasar de archivo, interruptor de sonidos y el arranque se salta al tocar. El envío sigue siendo el de siempre.",
+ "bytes": 82886,
+ "tamano": "81 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "4f3e91a3b90f6483c792dac3502bbdf1668b87ce4b8611f25c125262026eef07"
+ "sha256": "b41d1c3afe2fc13e3cb7486f0e7d78960c7b1011960e23b7d6ec2db788822b95"
 }
