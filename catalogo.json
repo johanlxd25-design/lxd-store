@@ -148,5 +148,25 @@
   "fecha": "2026-11-07",
   "descargas": 1,
   "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jtv.png"
+ },
+ {
+  "nombre": "J-Chat",
+  "paquete": "com.johanlxd.jchat",
+  "version": "1.0",
+  "versionCode": 1,
+  "categoria": "Comunicación",
+  "descCorta": "Tu propio chat estilo WhatsApp: te registras con un @usuario y te escriben buscándote por ese nombre. Sin número de teléfono.",
+  "descLarga": "J-Chat es el mensajero de Johan: funciona con un servidor propio y gratuito (Firebase), y nadie necesita tu número: creas tu cuenta con un @usuario único y una contraseña, y cualquiera que tenga la app te busca por tu @usuario y te escribe.\n\nLista de chats con el último mensaje, conversación con burbujas estilo WhatsApp oscuro y mensajes que llegan casi al instante con la app abierta. Solo tú y la otra persona pueden leer su conversación: el servidor lo garantiza con sus reglas.\n\nVersión 1.0: mensajes de texto. Las fotos y las notificaciones con la app cerrada llegan en próximas versiones.",
+  "tamano": "37 KB",
+  "monograma": "JC",
+  "color": "#00A884",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
+  "bytes": 37697,
+  "novedades": "Nueva app: tu chat propio estilo WhatsApp con servidor gratuito. Registro con @usuario único, buscador de personas por @usuario, lista de chats y conversación en tiempo casi real.",
+  "sha256": "ddc907ec61d32de229a8dc260f5f03861c68045830f96b6b9f1af224f7f14876",
+  "fecha": "2026-11-06",
+  "descargas": 0,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jchat.png",
+  "minSdk": 23
  }
 ]
