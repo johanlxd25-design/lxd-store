@@ -42,6 +42,26 @@
   "minSdk": 24
  },
  {
+  "bytes": 38130,
+  "categoria": "Utilidades",
+  "color": "#22C55E",
+  "descCorta": "La calculadora de Izi Tech Adm con la tasa oficial del dólar BCV.",
+  "descLarga": "La calculadora de Izi Tech: trae la tasa oficial del dólar del Banco Central de Venezuela, convierte dólares a bolívares al instante y aplica los niveles de cobro (Nivel 1 a 5).\n\nGuarda el historial de tus últimas cuentas, muestra la variación de la tasa y copia el resultado listo para enviar por WhatsApp.",
+  "monograma": "$",
+  "nombre": "Izi Tech Adm",
+  "paquete": "com.johanlxd.dolarbcv",
+  "tamano": "37 KB",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/dolarbcv.apk",
+  "version": "1.5",
+  "versionCode": 6,
+  "novedades": "Nuevo nombre: ahora se llama Izi Tech Adm, y estrena un icono minimalista (verde Izi Tech con el signo $).",
+  "sha256": "c48a2e0f6168a717a2a97a22ca224003d63d0aaaba8a9a63c97363a230e95704",
+  "fecha": "2026-11-05",
+  "descargas": 3,
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-dolarbcv.png",
+  "minSdk": 24
+ },
+ {
   "nombre": "J-Drop",
   "paquete": "com.johanlxd.jshare",
   "version": "3.5",
