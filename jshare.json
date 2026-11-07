@@ -1,9 +1,9 @@
 {
- "versionCode": 19,
- "version": "3.2",
- "novedades": "Las ventanitas ahora son de cristal líquido (Liquid Glass): la de compartir, la de «Esperando emisor» y la ventanita de lo recibido se ven translúcidas, con el borde luminoso y el brillo de cristal — y en Android 12+ desenfocan de verdad lo que hay detrás. Se apaga cuando quieras con el interruptor «Cristal líquido en las ventanitas» del inicio. El envío sigue siendo el de siempre.",
+ "versionCode": 20,
+ "version": "3.3",
+ "novedades": "Las tarjetas del inicio ahora son de cristal de verdad: desenfoque real en tiempo real de lo que hay detrás (un fondo vivo con brillos rosa y violeta que se mueven despacio), no un degradado. El mismo interruptor «Cristal líquido» lo enciende o apaga todo —tarjetas y ventanitas— y se nota al reabrir J-Drop. El envío no cambió.",
  "bytes": 111633,
  "tamano": "109 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "f1b920ce7d30090e455dcce5a0b99ef131fb590ead29188a71a5089abcb3ac10"
+ "sha256": "7e2b1d90e9440e37c09ec6aecd317fd9cd4843953c4ab33fb129844991877d16"
 }
