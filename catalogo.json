@@ -126,5 +126,27 @@
     "descargas": 0,
     "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jshare.png",
     "minSdk": 23
+  },
+  {
+    "nombre": "J-TV D2D",
+    "paquete": "pc.jtvd2d",
+    "version": "3",
+    "versionCode": 3,
+    "categoria": "PC",
+    "descCorta": "El rediseño total de J-TV con motor Direct2D: cristal esmerilado real, animaciones a 60 fps y datos en vivo — concepto en prueba",
+    "descLarga": "Concepto del nuevo J-TV con motor de dibujo Direct2D (acelerado por la tarjeta gráfica): pantalla de Inicio rediseñada con cristal esmerilado real, barra lateral, pastillas de clima y dólar BCV en vivo, titular de BBC Mundo, tarjetas animadas y «Seguir viendo» con progreso. Se navega con flechas, Enter y ratón; Esc sale. Se actualiza solo desde esta tienda. Es un concepto visual: todavía no abre las apps; tu J-TV de siempre sigue intacto.",
+    "tamano": "0.3 MB",
+    "monograma": "D2D",
+    "color": "#2563EB",
+    "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jtvd2d.exe",
+    "bytes": 360448,
+    "tipo": "pc",
+    "extraUrl": "",
+    "extraNombre": "",
+    "novedades": "El concepto ya se actualiza solo: al abrirlo busca la versión nueva en esta tienda y la ofrece en la barra como «↑ Actualizar»; descarga, verifica su huella SHA-256 y se reinicia actualizado.",
+    "sha256": "34909d6035b5c15e6fb07493a13f19c2503186729fc99ee0b451dc562c604b40",
+    "fecha": "2026-11-07",
+    "descargas": 1,
+    "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jtv.png"
   }
 ]
