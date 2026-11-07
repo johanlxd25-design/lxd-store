@@ -1,9 +1,9 @@
 {
- "versionCode": 24,
- "version": "3.7",
- "novedades": "La tarjeta de «Esperando» se rehízo a tu gusto: negro puro, sin emojis y sin borde — con un resplandor rosa difuminado detrás. En Ajustes, bajo «Tarjeta «Esperando»», mueves su opacidad (30–100%) y enciendes el borde rosa solo si lo quieres. La tarjeta de lo recibido también perdió la marca del título. El envío no cambió.",
+ "versionCode": 25,
+ "version": "3.8",
+ "novedades": "Corregido el resplandor de la tarjeta de «Esperando»: ahora es una luz compacta pegada detrás de la tarjeta (su mismo tamaño y un sangrado de 12dp), no una niebla rosa por media pantalla como salió en la v3.7. La ventana vuelve a abrazar la tarjeta. El envío no cambió.",
  "bytes": 115729,
  "tamano": "113 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "26298b7dd44951f2acc62bfe8f9ad08ecaf88a8c8ba9a4ecbe317633454c016a"
+ "sha256": "41b483af96407c1776af3a051f07be412f152a4aabe7aa72b25ce5948980f12d"
 }
