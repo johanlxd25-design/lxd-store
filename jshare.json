@@ -1,9 +1,9 @@
 {
- "versionCode": 27,
- "version": "3.10",
- "novedades": "Corregida la vista previa de los contactos: ya no se ve el texto crudo de la vCard (con el código de la foto en base64); ahora la tarjeta muestra tu foto y tu nombre, y al tocarla se abre la pantalla grande del contacto. El envío no cambió.",
- "bytes": 119825,
- "tamano": "117 KB",
+ "versionCode": 28,
+ "version": "3.11",
+ "novedades": "Al recibir una foto ya no hay animación de celebración: la foto se abre en grande, a pantalla completa, con «Recibido» arriba en letras grandes y un solo botón, «Borrar», que elimina la foto y cierra. Con la ✕ o Atrás se cierra y la foto se queda guardada. Los demás archivos se reciben como antes.",
+ "bytes": 123921,
+ "tamano": "121 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "839bdafd6acb2827767725be561a928c7633824c0cb6ce421a69131384edabd6"
+ "sha256": "2eb22cd2f9b47ff8fc510b13632c8bada772be383a3c23d911799870139a31cf"
 }
