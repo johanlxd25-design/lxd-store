@@ -1,9 +1,9 @@
 {
- "versionCode": 21,
- "version": "3.4",
- "novedades": "Rediseño minimalista: el inicio ahora es un mosaico de iconos (Recibidos, Compartir, Nota, Acceso rápido) con una sola palabra por baldosa, el estado es una fila de tres semáforos y las tarjetas y los ajustes dicen lo justo. Las ventanitas flotantes bajaron un respiro para no tapar la barra de estado ni los iconos de arriba. El cristal líquido y el desenfoque real siguen; el envío no cambió.",
+ "versionCode": 22,
+ "version": "3.5",
+ "novedades": "Desenfoque REAL por GPU en Android 12+: las tarjetas del inicio ahora difuminan el fondo vivo con la tarjeta gráfica (RenderEffect), en tiempo real, y el fondo trae colores con más presencia para que el cristal se note de verdad; el velo oscuro se alivió. Las ventanitas suman la segunda vía de desenfoque del sistema y los avisos del inicio también son de cristal. En Android viejos queda el desenfoque de siempre, mejorado. El envío no cambió.",
  "bytes": 115729,
  "tamano": "113 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "caa8e59873014ea8e6db076f7ae1f4bb27a9db4e16d1b3bde9c192083ca8035a"
+ "sha256": "b0ae99690ecc4a4f6b5a9762c1b0b5d86f568ab95b5426b2f2543a991008a933"
 }
