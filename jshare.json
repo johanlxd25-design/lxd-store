@@ -1,9 +1,9 @@
 {
- "versionCode": 25,
- "version": "3.8",
- "novedades": "Corregido el resplandor de la tarjeta de «Esperando»: ahora es una luz compacta pegada detrás de la tarjeta (su mismo tamaño y un sangrado de 12dp), no una niebla rosa por media pantalla como salió en la v3.7. La ventana vuelve a abrazar la tarjeta. El envío no cambió.",
+ "versionCode": 26,
+ "version": "3.9",
+ "novedades": "Tu contacto ahora se presenta en grande: cuando alguien lo recibe, se le abre tu foto a pantalla completa con tu nombre arriba en grande, tu número debajo y un solo botón, «Agregar», que te guarda en su agenda con tu foto. También se abre así al tocar la vista previa de un contacto recibido. El envío no cambió.",
  "bytes": 115729,
  "tamano": "113 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "41b483af96407c1776af3a051f07be412f152a4aabe7aa72b25ce5948980f12d"
+ "sha256": "7a9e6e573836bd1fc63c097aae5b49d0755d1bed532ceca7c01c04cf690ec754"
 }
