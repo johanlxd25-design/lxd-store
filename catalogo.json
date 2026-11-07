@@ -10,16 +10,16 @@
   "tamano": "1.6 MB",
   "monograma": "TV",
   "color": "#7C3AED",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jtv.exe",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jtv.exe",
   "bytes": 1631232,
   "tipo": "pc",
-  "extraUrl": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/WebView2Loader.dll",
+  "extraUrl": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/WebView2Loader.dll",
   "extraNombre": "WebView2Loader.dll (necesario)",
   "novedades": "El menú de Inicio ahora se dibuja con Direct2D, el motor acelerado por la tarjeta gráfica: texto más definido y todo más ligero. Diseño desde la base de la v4 (filas a todo el ancho, sin barra fija) con efectos sencillos y sin desenfoques en tiempo real.",
   "sha256": "ed2ae8f56f4f881f50abc6ca060dcc44b682b996cb58daacdd2b2f4040a7dfe9",
   "fecha": "2026-11-07",
   "descargas": 1,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jtv.png"
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jtv.png"
  },
  {
   "bytes": 412641,
@@ -31,34 +31,34 @@
   "nombre": "J-Remote",
   "paquete": "com.johanlxd.jremote",
   "tamano": "403 KB",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jremote.apk",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jremote.apk",
   "version": "1.26",
   "versionCode": 27,
   "novedades": "Nuevo «Modo Negro AMOLED» en el menú ⋯: toda la app en negro puro (#000000); en pantallas AMOLED los píxeles negros se apagan y gasta menos batería. Se queda guardado.",
   "sha256": "4d12c1a23385994c838d6563b06f8d180904bfd6be909fb59d6cbb9b8984e2c4",
   "fecha": "2026-11-05",
   "descargas": 1,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jremote.png",
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jremote.png",
   "minSdk": 24
  },
  {
   "nombre": "J-Drop",
   "paquete": "com.johanlxd.jshare",
-  "version": "3.4",
-  "versionCode": 21,
+  "version": "3.5",
+  "versionCode": 22,
   "categoria": "Utilidades",
   "descCorta": "Comparte archivos tocando otro teléfono: el toque NFC avisa y el archivo viaja por tu Wi-Fi",
   "descLarga": "Comparte archivos entre dos teléfonos con un toque: en cualquier app toca «Compartir» y elige J-Drop, deja la ventanita abierta, y el otro teléfono —con la pantalla «Recibir» abierta— detecta el toque NFC y descarga solo por el Wi-Fi de la casa, sin internet y sin cables.\n\nLo recibido queda en Descargas → J-Drop. Ambos teléfonos necesitan J-Drop instalado y estar conectados al mismo Wi-Fi.",
   "tamano": "113 KB",
   "monograma": "JS",
   "color": "#EC4899",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jshare.apk",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
   "bytes": 115729,
-  "novedades": "Rediseño minimalista: el inicio ahora es un mosaico de iconos (Recibidos, Compartir, Nota, Acceso rápido) con una sola palabra por baldosa, el estado es una fila de tres semáforos y las tarjetas y los ajustes dicen lo justo. Las ventanitas flotantes bajaron un respiro para no tapar la barra de estado ni los iconos de arriba. El cristal líquido y el desenfoque real siguen; el envío no cambió.",
-  "sha256": "caa8e59873014ea8e6db076f7ae1f4bb27a9db4e16d1b3bde9c192083ca8035a",
+  "novedades": "Desenfoque REAL por GPU en Android 12+: las tarjetas del inicio ahora difuminan el fondo vivo con la tarjeta gráfica (RenderEffect), en tiempo real, y el fondo trae colores con más presencia para que el cristal se note de verdad; el velo oscuro se alivió. Las ventanitas suman la segunda vía de desenfoque del sistema y los avisos del inicio también son de cristal. En Android viejos queda el desenfoque de siempre, mejorado. El envío no cambió.",
+  "sha256": "b0ae99690ecc4a4f6b5a9762c1b0b5d86f568ab95b5426b2f2543a991008a933",
   "fecha": "2026-11-07",
   "descargas": 0,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jshare.png",
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jshare.png",
   "minSdk": 23
  },
  {
@@ -72,19 +72,19 @@
   "tamano": "33 KB",
   "monograma": "PC",
   "color": "#F59E0B",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jassistpc.apk",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jassistpc.apk",
   "bytes": 33803,
   "novedades": "Nueva en la tienda: asistente para armar tu PC con control de compatibilidad, cálculo de consumo y diagnóstico por componente (versión beta).",
   "sha256": "204d18515f8c240c1c9ad41bf64ff3b03df90aab663a8c6430f7c4d38521e749",
   "fecha": "2026-11-05",
   "descargas": 0,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jassistpc.png",
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jassistpc.png",
   "minSdk": 21,
   "capturas": [
-   "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/captura-jassistpc-1.jpg",
-   "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/captura-jassistpc-2.jpg",
-   "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/captura-jassistpc-3.jpg",
-   "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/captura-jassistpc-4.jpg"
+   "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/captura-jassistpc-1.jpg",
+   "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/captura-jassistpc-2.jpg",
+   "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/captura-jassistpc-3.jpg",
+   "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/captura-jassistpc-4.jpg"
   ]
  },
  {
@@ -98,13 +98,13 @@
   "tamano": "105 KB",
   "monograma": "JS",
   "color": "#EC4899",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jsharebt.apk",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jsharebt.apk",
   "bytes": 107533,
   "novedades": "La nueva app hermana de J-Drop: comparte pegando los teléfonos, pero el toque se detecta por la intensidad del Bluetooth (sin NFC, así que también funciona en el J2 Prime). Es una app aparte: se instala junto a J-Drop, no la reemplaza.",
   "sha256": "2286f1c245b6e9875632ac11da12d2d0c12c0c0f2e7035c14c3db6771541df16",
   "fecha": "2026-11-06",
   "descargas": 0,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jshare.png",
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jshare.png",
   "minSdk": 23
  },
  {
@@ -118,7 +118,7 @@
   "tamano": "0.3 MB",
   "monograma": "D2D",
   "color": "#2563EB",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jtvd2d.exe",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jtvd2d.exe",
   "bytes": 360448,
   "tipo": "pc",
   "extraUrl": "",
@@ -127,7 +127,7 @@
   "sha256": "34909d6035b5c15e6fb07493a13f19c2503186729fc99ee0b451dc562c604b40",
   "fecha": "2026-11-07",
   "descargas": 1,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jtv.png"
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jtv.png"
  },
  {
   "nombre": "J-Chat",
@@ -140,13 +140,13 @@
   "tamano": "37 KB",
   "monograma": "JC",
   "color": "#00A884",
-  "url": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/jchat.apk",
+  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
   "bytes": 37697,
   "novedades": "Nueva app: tu chat propio estilo WhatsApp con servidor gratuito. Registro con @usuario único, buscador de personas por @usuario, lista de chats y conversación en tiempo casi real.",
   "sha256": "ddc907ec61d32de229a8dc260f5f03861c68045830f96b6b9f1af224f7f14876",
   "fecha": "2026-11-06",
   "descargas": 0,
-  "icono": "https:\/\/github.com\/johanlxd25-design\/lxd-store\/releases\/download\/apps\/icono-jchat.png",
+  "icono": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/icono-jchat.png",
   "minSdk": 23
  }
 ]
