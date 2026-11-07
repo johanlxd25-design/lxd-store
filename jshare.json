@@ -1,9 +1,9 @@
 {
- "versionCode": 20,
- "version": "3.3",
- "novedades": "Las tarjetas del inicio ahora son de cristal de verdad: desenfoque real en tiempo real de lo que hay detrás (un fondo vivo con brillos rosa y violeta que se mueven despacio), no un degradado. El mismo interruptor «Cristal líquido» lo enciende o apaga todo —tarjetas y ventanitas— y se nota al reabrir J-Drop. El envío no cambió.",
- "bytes": 111633,
- "tamano": "109 KB",
+ "versionCode": 21,
+ "version": "3.4",
+ "novedades": "Rediseño minimalista: el inicio ahora es un mosaico de iconos (Recibidos, Compartir, Nota, Acceso rápido) con una sola palabra por baldosa, el estado es una fila de tres semáforos y las tarjetas y los ajustes dicen lo justo. Las ventanitas flotantes bajaron un respiro para no tapar la barra de estado ni los iconos de arriba. El cristal líquido y el desenfoque real siguen; el envío no cambió.",
+ "bytes": 115729,
+ "tamano": "113 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jshare.apk",
- "sha256": "7e2b1d90e9440e37c09ec6aecd317fd9cd4843953c4ab33fb129844991877d16"
+ "sha256": "caa8e59873014ea8e6db076f7ae1f4bb27a9db4e16d1b3bde9c192083ca8035a"
 }
