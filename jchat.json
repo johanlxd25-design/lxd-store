@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "version": "2.4",
+  "versionCode": 8,
+  "version": "2.5",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
-  "sha256": "e9126f1a93887844c995f2ff06798b449c7b4e45249c8cf38ecd62fe5c4f4188",
-  "novedades": "¡Llegó la v2.4! El chat ya no te arrastra al final cuando estás leyendo hacia arriba: si llegan mensajes nuevos, aparece la píldora «Mensajes nuevos» y bajas cuando quieras. La cabecera del chat ya muestra la foto de perfil de la otra persona. Ajustes viene organizado por secciones (Apariencia, Chats y mensajes, Asistente @ia y Acerca de) y los menús —empezando por Adjuntar— ahora son una cuadrícula desplazable de 4 tarjetas por fila, cada una con su icono y su nombre debajo."
+  "sha256": "39fa83aeb823d98a3ddb986db8410dff81ddfa398ac8941edc278fb1c04cd289",
+  "novedades": "¡Llegó la v2.5! Ahora puedes responder mensajes desde la propia notificación, sin abrir la app. Los grupos tienen administradores: el dueño nombra admins, se puede expulsar a un miembro y activar «solo los administradores escriben». Las encuestas aceptan varias respuestas y cambiar tu voto tocando de nuevo. En Ajustes → Tus datos puedes crear una copia de seguridad de todos tus chats y restaurarla cuando quieras. Las notas de voz muestran su onda dibujada, que se va rellenando al reproducir. Las rachas se calculan de tu historial real (los dos teléfonos ven el mismo número) y lucen su llama en la lista de chats y en la cabecera. Y este panel también es nuevo: cuando haya una actualización, tú eliges «Actualizar» o «Más tarde»."
 }
