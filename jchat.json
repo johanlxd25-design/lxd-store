@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "version": "2.1",
+  "versionCode": 4,
+  "version": "2.2",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
-  "sha256": "0ba7418cfe303caa1c2ad6d553356dfc832a65f2d71ad9da0e8ca43e84a555ae",
-  "novedades": "Iconos dibujados tal cual el diseño de Johan y menús propios con la misma estética: ya no hay iconos de emoji ni menús del sistema."
+  "sha256": "605d0415f9b9a7bdc95b3ce7247d8703eda16b8f0b2ecf654bcb40310c6acaa4",
+  "novedades": "Las 21 novedades: chat Guardado, reenviar, destacados, fijar mensajes, fotos de una vista, encuestas, pizarra, notas de voz ×1,5/×2 y transcripción, traducir, mensajes programados, bloqueo con PIN y huella, chats con candado, modo incógnito, quién vio tu estado, insignia de creador, tarjeta QR, estadísticas de canal, Bot Dólar con la tasa BCV, carpetas, fondo por chat y stickers propios."
 }
