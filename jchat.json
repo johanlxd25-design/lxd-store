@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "version": "2.2",
+  "versionCode": 5,
+  "version": "2.3",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
-  "sha256": "605d0415f9b9a7bdc95b3ce7247d8703eda16b8f0b2ecf654bcb40310c6acaa4",
-  "novedades": "Las 21 novedades: chat Guardado, reenviar, destacados, fijar mensajes, fotos de una vista, encuestas, pizarra, notas de voz ×1,5/×2 y transcripción, traducir, mensajes programados, bloqueo con PIN y huella, chats con candado, modo incógnito, quién vio tu estado, insignia de creador, tarjeta QR, estadísticas de canal, Bot Dólar con la tasa BCV, carpetas, fondo por chat y stickers propios."
+  "sha256": "4b5cb0616a6c9e8f95741f15ed691ce2d93510af78e5a84b3bd0e4c5256732b4",
+  "novedades": "¡Llegó la v2.3! Nuevo modelo de contactos con solicitudes de mensaje, @ia (Gemini como contacto, la clave se pega en Ajustes), J-Chat web para PC/TV, videonotas circulares, tinta invisible, rachas, insignia de pionero para los 10 primeros usuarios, tema claro completo, comunidades, eventos de grupo con voy/no voy, listas compartidas, «Lo que me perdí», conversión $/Bs dentro de los mensajes, deshacer envío, borradores por chat, buscador global, widget y atajos, y el canal oficial JohanLxD con las novedades de la J-Store."
 }
