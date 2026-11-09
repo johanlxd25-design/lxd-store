@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "version": "2.3.1",
+  "versionCode": 7,
+  "version": "2.4",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
-  "sha256": "d6692c48ec5f9acb60aca059de0070308e319fae1827b825b0030d04f47ae110",
-  "novedades": "Corrección v2.3.1: la app ya se adapta a las barras del teléfono en todos los modelos. En teléfonos con Android nuevo, la cabecera y la barra de escribir quedaban tapadas por las barras del sistema; ya no. Sin cambios en funciones, cuentas ni chats."
+  "sha256": "e9126f1a93887844c995f2ff06798b449c7b4e45249c8cf38ecd62fe5c4f4188",
+  "novedades": "¡Llegó la v2.4! El chat ya no te arrastra al final cuando estás leyendo hacia arriba: si llegan mensajes nuevos, aparece la píldora «Mensajes nuevos» y bajas cuando quieras. La cabecera del chat ya muestra la foto de perfil de la otra persona. Ajustes viene organizado por secciones (Apariencia, Chats y mensajes, Asistente @ia y Acerca de) y los menús —empezando por Adjuntar— ahora son una cuadrícula desplazable de 4 tarjetas por fila, cada una con su icono y su nombre debajo."
 }
