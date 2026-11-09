@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "version": "2.3",
+  "versionCode": 6,
+  "version": "2.3.1",
   "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jchat.apk",
-  "sha256": "4b5cb0616a6c9e8f95741f15ed691ce2d93510af78e5a84b3bd0e4c5256732b4",
-  "novedades": "¡Llegó la v2.3! Nuevo modelo de contactos con solicitudes de mensaje, @ia (Gemini como contacto, la clave se pega en Ajustes), J-Chat web para PC/TV, videonotas circulares, tinta invisible, rachas, insignia de pionero para los 10 primeros usuarios, tema claro completo, comunidades, eventos de grupo con voy/no voy, listas compartidas, «Lo que me perdí», conversión $/Bs dentro de los mensajes, deshacer envío, borradores por chat, buscador global, widget y atajos, y el canal oficial JohanLxD con las novedades de la J-Store."
+  "sha256": "d6692c48ec5f9acb60aca059de0070308e319fae1827b825b0030d04f47ae110",
+  "novedades": "Corrección v2.3.1: la app ya se adapta a las barras del teléfono en todos los modelos. En teléfonos con Android nuevo, la cabecera y la barra de escribir quedaban tapadas por las barras del sistema; ya no. Sin cambios en funciones, cuentas ni chats."
 }
