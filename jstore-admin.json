@@ -1,9 +1,9 @@
 {
- "versionCode": 19,
- "version": "2.0.1",
- "novedades": "Ahora el catálogo se carga siempre fresco (sin quedarse pegado en la copia guardada) y el catálogo de reserva ya trae la tienda al día, con Izi Tech Adm y J-Share 2.3. Los iconos también se renuevan cuando una app cambia el suyo.",
- "bytes": 144004,
- "tamano": "141 KB",
+ "versionCode": 20,
+ "version": "2.0.2",
+ "novedades": "Nuevo icono: la J rosada sobre negro que dibujaste, ya sin el fondo blanco.",
+ "bytes": 193156,
+ "tamano": "189 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jstore-admin.apk",
- "sha256": "b6ad10f4922c464d6ea5166db7b0687fc63b0ee2a64bbbc7ea95f1e317ed117e"
+ "sha256": "dc49559d30050d72b175a10cfd1fe03a9599c231ff2bd2e1c2f054fa9de6cf3d"
 }
