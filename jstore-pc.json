@@ -1,9 +1,9 @@
 {
- "versionCode": 4,
- "version": "1.4",
- "novedades": "Se queda en la bandeja al minimizar y avisa cuando sale una versión nueva. Botón «Al teléfono» para instalar los APK descargados en tu teléfono por ADB. Favoritos sincronizados con tus otros equipos.",
- "bytes": 467968,
- "tamano": "457 KB",
+ "versionCode": 5,
+ "version": "1.5",
+ "novedades": "Nuevo icono: la J rosada sobre negro que dibujaste, ya sin el fondo blanco.",
+ "bytes": 482816,
+ "tamano": "472 KB",
  "url": "https://github.com/johanlxd25-design/lxd-store/releases/download/apps/jstore-pc.exe",
- "sha256": "a7c025de5de57b9bfa5651ffaf4d0e7eec53a046b1accc7a16d82d748010f7dd"
+ "sha256": "8c9e77ac5a9fadf41ed7177a8490f86e30955a554299eea5ac508cd3d3d472bf"
 }
