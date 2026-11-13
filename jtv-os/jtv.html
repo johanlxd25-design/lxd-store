@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JTV OS — Inicio</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { height:100%; }
+  body {
+    background:#000; color:#fff;
+    font-family:"Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    overflow:hidden; user-select:none;
+  }
+  .pantalla { height:100vh; display:flex; flex-direction:column; padding:2.2vh 3vw 1.6vh; }
+
+  /* ---------- cabecera ---------- */
+  header { display:flex; align-items:center; justify-content:space-between; }
+  .perfil { display:flex; align-items:center; gap:14px; }
+  .avatar {
+    width:64px; height:64px; border-radius:50%;
+    background:#FF2E7E; color:#fff;
+    display:flex; align-items:center; justify-content:center;
+    font-size:34px; font-weight:800;
+  }
+  .perfil .nombre { font-size:26px; font-weight:700; }
+  .perfil .sub { font-size:15px; color:#9aa0a6; margin-top:2px; }
+  .reloj { text-align:center; }
+  .reloj .hora { font-size:96px; font-weight:800; line-height:1; letter-spacing:2px; }
+  .reloj .fecha { font-size:20px; color:#c7cbd1; margin-top:6px; text-transform:capitalize; }
+  .estado { display:flex; align-items:center; gap:16px; }
+  .bcv {
+    background:#111; border:1px solid #2a2a2e; border-radius:999px;
+    padding:10px 18px; font-size:20px; font-weight:700; color:#fff; white-space:nowrap;
+  }
+  .bcv small { color:#9aa0a6; font-weight:600; margin-right:6px; }
+  .wifi { width:44px; height:44px; }
+  .wifi .arco { fill:none; stroke:#FF2E7E; stroke-width:5; stroke-linecap:round; }
+  .wifi .punto { fill:#FF2E7E; }
+  .wifi.off .arco, .wifi.off .punto { stroke:#666; fill:#666; }
+  .wifi.off .tacha { stroke:#ff3b30; stroke-width:5; stroke-linecap:round; }
+
+  /* ---------- filas ---------- */
+  main { flex:1; display:flex; flex-direction:column; justify-content:center; gap:3.2vh; }
+  .etiqueta { font-size:22px; font-weight:700; color:#c7cbd1; margin-bottom:1.4vh; letter-spacing:.4px; }
+  .fila { display:flex; gap:1.6vw; }
+  .tarjeta {
+    border-radius:26px; cursor:pointer; outline:none;
+    display:flex; flex-direction:column; align-items:center; justify-content:center; gap:10px;
+    transition:transform .16s ease, box-shadow .16s ease;
+    border:3px solid transparent; text-decoration:none; color:#fff;
+  }
+  .tarjeta.grande { flex:1; height:30vh; }
+  .tarjeta.chica { flex:1; height:15vh; }
+  .tarjeta .logo { width:34%; max-width:120px; }
+  .tarjeta.chica .logo { width:26%; max-width:64px; }
+  .tarjeta .nombre { font-size:30px; font-weight:800; }
+  .tarjeta.chica .nombre { font-size:21px; }
+  .tarjeta .desc { font-size:15px; color:rgba(255,255,255,.75); }
+  .tarjeta.chica .desc { display:none; }
+  .tarjeta.enfocada {
+    transform:scale(1.055);
+    border-color:#FF2E7E;
+    box-shadow:0 0 0 4px rgba(255,46,126,.35), 0 18px 44px rgba(255,46,126,.28);
+    z-index:2;
+  }
+  .yt { background:linear-gradient(160deg,#ff1f1f,#b30000); }
+  .sp { background:linear-gradient(160deg,#1ed760,#0d7a33); }
+  .nf { background:linear-gradient(160deg,#e50914,#5c0505); }
+  .jm { background:linear-gradient(160deg,#FF2E7E,#8f0f45); }
+  .pluto { background:linear-gradient(160deg,#ffd400,#c79a00); color:#111; }
+  .pluto .nombre, .pluto .desc { color:#111; }
+  .vix { background:linear-gradient(160deg,#ff5a00,#a32e00); }
+  .tubi { background:linear-gradient(160deg,#8a2be2,#4a148c); }
+  .plex { background:linear-gradient(160deg,#e5a00d,#7a5200); }
+  .crunch { background:linear-gradient(160deg,#f47521,#8f3d05); }
+
+  /* ---------- Play Now ---------- */
+  .playnow {
+    display:flex; align-items:center; gap:18px;
+    background:#111; border:1px solid #232326; border-radius:20px; padding:14px 22px;
+  }
+  .playnow .titulo { font-size:19px; font-weight:800; color:#FF2E7E; white-space:nowrap; }
+  .playnow .que { font-size:19px; color:#c7cbd1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .barras { display:flex; align-items:flex-end; gap:4px; height:26px; margin-left:auto; }
+  .barras i { width:5px; background:#FF2E7E; border-radius:3px; animation:sube 1s ease-in-out infinite; }
+  .barras i:nth-child(1) { height:40%; animation-delay:0s; }
+  .barras i:nth-child(2) { height:90%; animation-delay:.18s; }
+  .barras i:nth-child(3) { height:60%; animation-delay:.36s; }
+  .barras i:nth-child(4) { height:80%; animation-delay:.54s; }
+  @keyframes sube { 0%,100% { transform:scaleY(.45); } 50% { transform:scaleY(1); } }
+
+  footer { display:flex; justify-content:space-between; align-items:center; color:#8a8f96; font-size:15px; padding-top:1vh; }
+  footer b { color:#c7cbd1; }
+</style>
+</head>
+<body>
+<div class="pantalla">
+  <header>
+    <div class="perfil">
+      <div class="avatar">D</div>
+      <div>
+        <div class="nombre">Darko</div>
+        <div class="sub">JTV OS · prototipo v0.1</div>
+      </div>
+    </div>
+    <div class="reloj">
+      <div class="hora" id="hora">--:--</div>
+      <div class="fecha" id="fecha">cargando fecha…</div>
+    </div>
+    <div class="estado">
+      <div class="bcv" id="bcv"><small>$ BCV</small>—</div>
+      <svg class="wifi" id="wifi" viewBox="0 0 48 48" aria-label="WiFi">
+        <path class="arco" d="M6 18 A26 26 0 0 1 42 18" />
+        <path class="arco" d="M12 25 A17 17 0 0 1 36 25" />
+        <path class="arco" d="M18 31.5 A9 9 0 0 1 30 31.5" />
+        <circle class="punto" cx="24" cy="38" r="3.4" />
+        <line class="tacha" x1="8" y1="8" x2="40" y2="40" style="display:none" />
+      </svg>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <div class="fila" id="fila-apps">
+        <a class="tarjeta grande yt" data-url="https://www.youtube.com" href="https://www.youtube.com">
+          <svg class="logo" viewBox="0 0 100 70"><rect x="2" y="4" width="96" height="62" rx="16" fill="#fff"/><path d="M42 22 L68 35 L42 48 Z" fill="#ff1f1f"/></svg>
+          <div class="nombre">YouTube</div>
+          <div class="desc">Videos y música</div>
+        </a>
+        <a class="tarjeta grande sp" data-url="https://open.spotify.com" href="https://open.spotify.com">
+          <svg class="logo" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" fill="#fff"/><g stroke="#0d7a33" stroke-width="8" stroke-linecap="round" fill="none"><path d="M28 40 Q50 32 72 40"/><path d="M30 54 Q50 47 70 54"/><path d="M32 67 Q50 61 68 67"/></g></svg>
+          <div class="nombre">Spotify</div>
+          <div class="desc">Tu música</div>
+        </a>
+        <a class="tarjeta grande nf" data-url="https://www.netflix.com" href="https://www.netflix.com">
+          <svg class="logo" viewBox="0 0 100 100"><path d="M22 8 H40 V92 H22 Z M60 8 H78 V92 H60 Z M40 8 L78 92 H60 L22 8 Z" fill="#fff"/></svg>
+          <div class="nombre">Netflix</div>
+          <div class="desc">Series y películas</div>
+        </a>
+        <a class="tarjeta grande jm" data-url="https://music.youtube.com" href="https://music.youtube.com">
+          <svg class="logo" viewBox="0 0 100 100"><circle cx="50" cy="50" r="46" fill="#fff"/><path d="M58 26 v34 a12 12 0 1 1 -6 -10 V26 Z" fill="#FF2E7E"/><circle cx="46" cy="66" r="9" fill="#FF2E7E"/></svg>
+          <div class="nombre">J-Music</div>
+          <div class="desc">Música de YouTube</div>
+        </a>
+      </div>
+    </section>
+
+    <section>
+      <div class="etiqueta">Mis enlaces</div>
+      <div class="fila" id="fila-enlaces">
+        <a class="tarjeta chica pluto" data-url="https://pluto.tv/latam" href="https://pluto.tv/latam">
+          <svg class="logo" viewBox="0 0 100 100"><circle cx="50" cy="50" r="44" fill="#111"/><path d="M38 30 L62 50 L38 70 Z" fill="#ffd400"/></svg>
+          <div class="nombre">Pluto TV</div>
+        </a>
+        <a class="tarjeta chica vix" data-url="https://www.vix.com" href="https://www.vix.com">
+          <svg class="logo" viewBox="0 0 100 100"><rect x="8" y="22" width="84" height="56" rx="12" fill="#fff"/><text x="50" y="60" font-size="30" font-weight="800" text-anchor="middle" fill="#ff5a00">ViX</text></svg>
+          <div class="nombre">ViX</div>
+        </a>
+        <a class="tarjeta chica tubi" data-url="https://tubitv.com" href="https://tubitv.com">
+          <svg class="logo" viewBox="0 0 100 100"><circle cx="50" cy="50" r="44" fill="#fff"/><text x="50" y="62" font-size="34" font-weight="800" text-anchor="middle" fill="#8a2be2">tubi</text></svg>
+          <div class="nombre">Tubi</div>
+        </a>
+        <a class="tarjeta chica plex" data-url="https://watch.plex.tv" href="https://watch.plex.tv">
+          <svg class="logo" viewBox="0 0 100 100"><path d="M50 6 L86 50 L50 94 L14 50 Z" fill="#fff"/><path d="M50 26 L68 50 L50 74 L32 50 Z" fill="#e5a00d"/></svg>
+          <div class="nombre">Plex</div>
+        </a>
+        <a class="tarjeta chica crunch" data-url="https://www.crunchyroll.com" href="https://www.crunchyroll.com">
+          <svg class="logo" viewBox="0 0 100 100"><circle cx="50" cy="50" r="44" fill="#fff"/><circle cx="50" cy="42" r="12" fill="#f47521"/><path d="M28 78 Q50 58 72 78" stroke="#f47521" stroke-width="8" fill="none" stroke-linecap="round"/></svg>
+          <div class="nombre">Crunchyroll</div>
+        </a>
+      </div>
+    </section>
+
+    <div class="playnow">
+      <div class="titulo">Play Now</div>
+      <div class="que">Nada sonando por ahora — abre J-Music o Spotify</div>
+      <div class="barras"><i></i><i></i><i></i><i></i></div>
+    </div>
+  </main>
+
+  <footer>
+    <div><b>← → ↑ ↓</b> moverte &nbsp;·&nbsp; <b>Enter</b> entrar &nbsp;·&nbsp; <b>Retroceso</b> volver</div>
+    <div>JTV OS · hecho con Linux · el Inicio de J-TV, ahora sistema</div>
+  </footer>
+</div>
+
+<script>
+(function () {
+  // Reloj y fecha
+  function tick() {
+    var ahora = new Date();
+    var h = String(ahora.getHours()).padStart(2, '0');
+    var m = String(ahora.getMinutes()).padStart(2, '0');
+    document.getElementById('hora').textContent = h + ':' + m;
+    document.getElementById('fecha').textContent =
+      ahora.toLocaleDateString('es-VE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+  }
+  tick(); setInterval(tick, 1000);
+
+  // Tasa BCV (dolarapi, respaldo si falla)
+  function bcv() {
+    fetch('https://ve.dolarapi.com/v1/dolares/oficial', { cache: 'no-store' })
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var v = parseFloat(d.promedio);
+        if (!isFinite(v)) throw new Error('sin tasa');
+        document.getElementById('bcv').innerHTML =
+          '<small>$ BCV</small>Bs ' + v.toFixed(4).replace('.', ',');
+      })
+      .catch(function () {
+        document.getElementById('bcv').innerHTML = '<small>$ BCV</small>sin conexión';
+      });
+  }
+  bcv(); setInterval(bcv, 5 * 60 * 1000);
+
+  // WiFi: rosado con conexión, gris con rayita roja sin ella
+  function wifi() {
+    var el = document.getElementById('wifi');
+    var tacha = el.querySelector('.tacha');
+    if (navigator.onLine) { el.classList.remove('off'); tacha.style.display = 'none'; }
+    else { el.classList.add('off'); tacha.style.display = ''; }
+  }
+  wifi();
+  window.addEventListener('online', wifi);
+  window.addEventListener('offline', wifi);
+
+  // Navegación como TV: flechas mueven el foco, Enter entra, Retroceso vuelve
+  var filas = [Array.from(document.querySelectorAll('#fila-apps .tarjeta')),
+               Array.from(document.querySelectorAll('#fila-enlaces .tarjeta'))];
+  var f = 0, c = 0;
+  function pintar() {
+    filas.forEach(function (fila) { fila.forEach(function (t) { t.classList.remove('enfocada'); }); });
+    var el = filas[f][c];
+    el.classList.add('enfocada');
+    el.focus({ preventScroll: true });
+  }
+  pintar();
+  document.addEventListener('keydown', function (e) {
+    var k = e.key;
+    if (k === 'ArrowRight') { c = Math.min(c + 1, filas[f].length - 1); pintar(); e.preventDefault(); }
+    else if (k === 'ArrowLeft') { c = Math.max(c - 1, 0); pintar(); e.preventDefault(); }
+    else if (k === 'ArrowDown') { if (f === 0) { f = 1; c = Math.min(c, filas[1].length - 1); pintar(); } e.preventDefault(); }
+    else if (k === 'ArrowUp') { if (f === 1) { f = 0; c = Math.min(c, filas[0].length - 1); pintar(); } e.preventDefault(); }
+    else if (k === 'Enter') { var el = filas[f][c]; if (el) window.location.href = el.dataset.url; }
+    else if (k === 'Backspace' || k === 'Escape') { history.back(); e.preventDefault(); }
+  });
+  filas.forEach(function (fila, fi) {
+    fila.forEach(function (t, ci) {
+      t.addEventListener('mouseenter', function () { f = fi; c = ci; pintar(); });
+    });
+  });
+})();
+</script>
+</body>
+</html>
